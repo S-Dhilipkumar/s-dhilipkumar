@@ -302,7 +302,7 @@ print(f"Mission: {me.life_motto()}")
   <br><br>
   
   [![Email](https://img.shields.io/badge/Email-dhilipkumar1072003@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhilipkumar1072003@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhilipkumar)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhilipkumar-sivakumar)
   
   
   <br><br>
