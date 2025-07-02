@@ -7,12 +7,12 @@
 </div>
 
 <h1 align="center">👨‍💻 About Me</h1>
-
 <table>
-<tr>
-<td style="background-color: #0d1117; color: white; padding: 20px; border-radius: 10px; font-family: monospace; font-size: 14px;">
+<tr valign="top">
+  <!-- Left: Code -->
+  <td style="background-color: #0d1117; color: white; padding: 20px; border-radius: 10px; font-family: monospace; font-size: 14px; max-width: 500px; white-space: pre-wrap; word-break: break-word;">
 
-<pre>
+<pre style="margin: 0; white-space: pre-wrap;">
 class DhilipkumarSivakumar:
     def __init__(self):
         self.name = "Dhilipkumar Sivakumar"
@@ -39,13 +39,40 @@ print(f"Current Focus: {me.current_project}")
 print(f"Mission: {me.life_motto()}")
 </pre>
 
-</td>
+  </td>
 
-<td style="padding-left: 20px;">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding Animation" style="border-radius: 10px;" />
-</td>
+  <!-- Right: Image + Typing Animation -->
+  <td style="text-align: center; padding: 10px;">
+    <!-- Top Illustration -->
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280" style="border-radius: 10px;" alt="AI Illustration"/><br><br>
+
+<img src="https://img.shields.io/badge/Role-AI%2FML%20Engineer-blue?style=for-the-badge"/>
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="32" height="32" style="margin: 5px;" />
+  
+  <!-- PyTorch -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="32" height="32" style="margin: 5px;" />
+
+  <!-- TensorFlow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="32" height="32" style="margin: 5px;" />
+
+  <!-- HuggingFace (custom icon, not in devicon) -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" title="Transformers (HuggingFace)" width="32" height="32" style="margin: 5px;" />
+
+  <!-- OpenCV -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="32" height="32" style="margin: 5px;" />
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="32" height="32" style="margin: 5px;" />
+
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="32" height="32" style="margin: 5px;" />
+
+
+  </td>
 </tr>
 </table>
+
 
 ---
 
